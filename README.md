@@ -1,4 +1,4 @@
-# CSCI-4050-Project
+# CSCI-Project
 
 ## Problem Statement:
 
