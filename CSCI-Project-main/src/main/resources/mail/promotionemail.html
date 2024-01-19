@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<span th:text="'Dear ' + ${name} + ','"></span>
+<p>There is a new promotion that is currently being offered.</p>
+<p>The promotion details are the following: </p>
+<span th:text="'Promotion code: ' + ${promocode}"></span><br>
+<span th:text="'Discount value: ' + ${discount}"></span><br>
+<span th:text="'Start date: ' + ${start}"></span><br>
+<span th:text="'End date: ' + ${end}"></span>
+</html>

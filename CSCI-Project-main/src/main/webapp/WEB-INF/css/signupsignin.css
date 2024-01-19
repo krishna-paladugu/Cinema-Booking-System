@@ -1,0 +1,30 @@
+body {
+  background: linear-gradient(to right, #2c3e50, #4ca1af);
+}
+
+.card-title {
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.btn-login {
+  font-size: 1rem;
+  letter-spacing: 0.05rem;
+  padding: 0.75rem 1rem;
+}
+
+.row {
+  margin-top: 10%;
+}
+
+input:invalid {
+  border: 1px solid red;
+}
+
+.login-error {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  color: red;
+  font-weight: bold;
+  text-align: center;
+}

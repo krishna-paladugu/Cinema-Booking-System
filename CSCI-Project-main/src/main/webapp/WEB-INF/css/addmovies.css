@@ -1,0 +1,27 @@
+.row {
+    margin-top: 5%;
+}
+
+span {
+    color: red;
+}
+
+p {
+    text-align: center;
+}
+
+.add-movie-success {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: green;
+    font-weight: bold;
+    text-align: center;
+}
+
+.add-movie-error {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
